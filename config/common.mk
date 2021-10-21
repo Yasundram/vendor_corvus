@@ -105,8 +105,8 @@ PRODUCT_MINIMIZE_JAVA_DEBUG_INFO := true
 # Enable ccache
 USE_CCACHE := true
 
-# Art
-include vendor/corvus/config/art.mk
+
+
 
 # Boot animation
 include vendor/corvus/config/bootanimation.mk
